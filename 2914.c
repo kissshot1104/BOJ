@@ -5,7 +5,7 @@ int main()
 {
 	char	str[101]={0};
 	char	dic[][4] = {"c=","c-","dz=","d-","lj","nj","s=","z="};
-	int		cnt = 0;
+	int	cnt = 0;
 
 	scanf("%s", str);
 	for (int i = 0; i < 8; i++)
