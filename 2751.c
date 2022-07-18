@@ -2,6 +2,7 @@
 
 int	arr1[1000001];
 int	arr2[1000001];
+
 void	sort(int front, int back)
 {
 	if (front >= back)
